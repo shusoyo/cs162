@@ -2,6 +2,4 @@
 
 #include "tests/lib.h"
 
-int main(int argc, char* argv[] UNUSED) {
-  return argc;
-}
+int main(int argc, char *argv[] UNUSED) { return argc; }
